@@ -1,0 +1,11 @@
+{"id":0,"makeModel":"EPDglZtoQw","year":1995,"retailPrice":29520.0}
+{"id":0,"makeModel":"RXVcxDYmsX","year":2005,"retailPrice":40639.0}
+{"id":1,"makeModel":"gulDLheaOZ","year":1996,"retailPrice":36521.0}
+{"id":2,"makeModel":"FZHCEonnes","year":2010,"retailPrice":44878.0}
+{"id":3,"makeModel":"MilCBMMDUr","year":2015,"retailPrice":15534.0}
+{"id":4,"makeModel":"DlrSxQcZUi","year":2009,"retailPrice":22332.0}
+{"id":6,"makeModel":"111111","year":1111,"retailPrice":111111.0}
+{"id":7,"makeModel":"vSuENXfLNO","year":1990,"retailPrice":27432.0}
+{"id":8,"makeModel":"ROglemJdEa","year":1998,"retailPrice":40507.0}
+{"id":9,"makeModel":"QRLdVKlNEr","year":2001,"retailPrice":18542.0}
+{"id":10,"makeModel":"BQttdTnEOl","year":2007,"retailPrice":15492.0}
